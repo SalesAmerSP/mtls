@@ -1,4 +1,4 @@
-# Bash script to create CA, CSR 
+# Bash script to create CA, Server and Client cert/key pair 
 
 Files to edit prior to running 
 
